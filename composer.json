@@ -23,12 +23,12 @@
   },
   "autoload": {
     "psr-4": {
-      "Nubeslab\\jQueryQueryBuilderPhp\\": "src/"
+      "AnhNguyenz\\jQueryQueryBuilderPhp\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Nubeslab\\jQueryQueryBuilderPhpTests\\": "tests/"
+      "AnhNguyenz\\jQueryQueryBuilderPhpTests\\": "tests/"
     }
   },
   "minimum-stability": "dev"
