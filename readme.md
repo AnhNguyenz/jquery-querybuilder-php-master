@@ -9,7 +9,7 @@ composer require anhnguyenz/jquery-querybuilder-php
 # Usage
 ## TL;DR Oneliner
 ```php
-(new \Nubeslab\jQueryQueryBuilderPhp\StandardEvaluator($rules))->evaluate($data);
+(new \AnhNguyenz\jQueryQueryBuilderPhp\StandardEvaluator($rules))->evaluate($data);
 ```
 
 ## Basic usage
@@ -24,9 +24,9 @@ $data = [
 ];
 
 // Step 1: Initialize evaluator with $rules
-$evaluator = new \Nubeslab\jQueryQueryBuilderPhp\StandardEvaluator($rules);
+$evaluator = new \AnhNguyenz\jQueryQueryBuilderPhp\StandardEvaluator($rules);
 // OR
-$evaluator = new \Nubeslab\jQueryQueryBuilderPhp\StandardEvaluator();
+$evaluator = new \AnhNguyenz\jQueryQueryBuilderPhp\StandardEvaluator();
 $evaluator->setRules($rules);
 
 // Step 2: Use it to evaluate your $data array
@@ -37,7 +37,7 @@ var_dump($result);
 ```
 
 # Support
-Please [open an issue](https://gitlab.com/nubeslab/jquery-querybuilder-php/issues) for support.
+Please [open an issue](https://github.com/AnhNguyenz/jquery-querybuilder-php-master/issues) for support.
 
 # Contributing
 This project uses [PSR-2](http://www.php-fig.org/psr/psr-2/) code style. This repository uses [gitflow](http://nvie.com/posts/a-successful-git-branching-model/) branching model.
