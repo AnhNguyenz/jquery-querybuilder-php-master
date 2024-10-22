@@ -1,13 +1,13 @@
 <?php
 
-namespace Nubeslab\jQueryQueryBuilderPhp;
+namespace AnhNguyenz\jQueryQueryBuilderPhp;
 
 use Closure;
 use Exception;
 
 /**
  * Parse jQuery Query Builder JSON into Evaluate class
- * @package Nubeslab\jQueryQueryBuilderPhp
+ * @package AnhNguyenz\jQueryQueryBuilderPhp
  */
 class Evaluator
 {

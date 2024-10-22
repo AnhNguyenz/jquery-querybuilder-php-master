@@ -1,10 +1,10 @@
 <?php
 
-namespace Nubeslab\jQueryQueryBuilderPhp;
+namespace AnhNguyenz\jQueryQueryBuilderPhp;
 
 /**
  * Standard {@link Evaluator}
- * @package Nubeslab\jQueryQueryBuilderPhp
+ * @package AnhNguyenz\jQueryQueryBuilderPhp
  */
 class StandardEvaluator extends Evaluator
 {

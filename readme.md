@@ -3,7 +3,7 @@ Unofficial PHP evaluator for [jQuery QueryBuilder](http://querybuilder.js.org/)
 
 # Installing
 ```
-composer require nubeslab/jquery-querybuilder-php
+composer require anhnguyenz/jquery-querybuilder-php
 ```
 
 # Usage
