@@ -1,16 +1,16 @@
 {
-  "name": "nubeslab/jquery-querybuilder-php",
+  "name": "anhnguyenz/jquery-querybuilder-php",
   "type": "library",
   "description": "Unofficial PHP evaluator for jQuery QueryBuilder",
   "keywords": [
     "jquery-querybuilder"
   ],
-  "homepage": "https://gitlab.com/nubeslab/jquery-querybuilder-php",
+  "homepage": "https://github.com/AnhNguyenz/jquery-querybuilder-php-master",
   "license": "MIT",
   "authors": [
     {
-      "name": "Arief Wibowo",
-      "email": "arief@nubeslab.com"
+      "name": "AnhNguyenz",
+      "email": "duongluong.dev@gmail.com"
     }
   ],
   "require": {
