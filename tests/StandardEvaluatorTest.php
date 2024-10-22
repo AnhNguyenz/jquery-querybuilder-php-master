@@ -1,9 +1,9 @@
 <?php
 
-namespace Nubeslab\jQueryQueryBuilderPhpTests;
+namespace AnhNguyenz\jQueryQueryBuilderPhpTests;
 
 use Exception;
-use Nubeslab\jQueryQueryBuilderPhp\StandardEvaluator;
+use AnhNguyenz\jQueryQueryBuilderPhp\StandardEvaluator;
 use PHPUnit\Framework\TestCase;
 
 class StandardEvaluatorTest extends TestCase
