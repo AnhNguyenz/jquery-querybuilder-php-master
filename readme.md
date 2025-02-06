@@ -32,7 +32,7 @@ $evaluator->setRules($rules);
 // Step 2: Use it to evaluate your $data array
 $result = $evaluator->evaluate($data);
 
-// Step 3: PROFIT!!!!
+// Step 3: PROFIT!!!! .
 var_dump($result);
 ```
 
